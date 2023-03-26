@@ -10,7 +10,7 @@ This repository includes the practice questions on the follwoing topics:)
 
 3)exceptions handling- try catch 
 *The Exception Handling in Java is one of the powerful mechanism to handle the runtime errors so that the normal flow of the application can be maintained. in general Exception is an abnormal condition.
-some of exceptions in java are: Arithmetic Exception , Nullpointer exception, ArrayIndexOutOfBound exception etc. ,to handle such kinds of exceptions we use try catch statements in java .
+some of exceptions in java are: Arithmetic Exception , Nullpointer exception, ArrayIndexOutOfBound exception etc. ,to handle such kinds of exceptions we use try catch statements in java.
 
 4) String handling in Java:  Strings are a sequence of characters. In Java programming language, strings are treated as objects.
 
