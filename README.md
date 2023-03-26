@@ -4,13 +4,16 @@ This repository contains practice questions on the basic concepts of Java
 This repository includes the practice questions on the follwoing topics:)
 
 
-1)conditional statements-if, if else, if elseif else 
+1)conditional statements-if, if else, if elseif else
+
 *Conditional statements defines which set of code to be executed by the given condition defined in the program . These statements are also known as decision statements or selection statements in Java.
 
 2)loops - pattern questions based on loops , types of loops
+
 *loops are used for iteration 
 
 3)exception handling- try catch 
+
 *The Exception Handling in Java is one of the powerful mechanism to handle the runtime errors so that the normal flow of the application can be maintained. in general Exception is an abnormal condition.
 some of exceptions in java are: Arithmetic Exception , Nullpointer exception, ArrayIndexOutOfBound exception etc. ,to handle such kinds of exceptions we use try catch statements in java.
 
