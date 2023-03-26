@@ -1,7 +1,7 @@
 # java-practice-questions
 This repository contains practice questions on the basic concepts of Java 
 
-This repository includes the practice questions on the follwoing topics:)
+This repository includes the practice questions on the follwoing topics :)
 
 
 1)conditional statements-if, if else, if elseif else
