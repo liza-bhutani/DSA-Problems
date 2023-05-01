@@ -29,6 +29,8 @@ Bubble sort- Basic idea of bubble sorting is to compare the adjacent values and 
 7)ArrayList- we can say ArrayList is a dynamic type of array i.e resizable array, which can be found in the java.util package.
 difference between Array and ArrayList is we can modify the size of array in ArrayList but can't in Array declaration.
 
+8) Interface - An interface in Java is a blueprint of a class. It has static constants and abstract methods.
+
 
 
 
